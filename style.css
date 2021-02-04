@@ -7,17 +7,8 @@ body{
 
 p{
     text-align: center;
-    color: black;
 }
 
 img{
-    border: 4pt dotted green;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-h1{
-    text-align: center;
-    color: black;
+    border: 1pt solid #707070;
 }
