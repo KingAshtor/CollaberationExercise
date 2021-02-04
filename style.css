@@ -11,7 +11,7 @@ p{
 }
 
 img{
-    border: 4pt dotted green;
+    border: 4pt dotted rgb(3, 182, 3);
     margin-left: auto;
     margin-right: auto;
     display: block;
